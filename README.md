@@ -36,4 +36,4 @@
 
 ## Workflow Screenshot
 
-![AI Workflow Screenshot](ai workflow screenshot.png)
+![AI Workflow Screenshot](./ai%20workflow%20screenshot.png)

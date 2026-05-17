@@ -22,11 +22,18 @@
 
 ```text
 开始
-  ↓
+↓
 选择器（判断科目）
-  ↓
+↓
 不同学科 AI 节点
-  ↓
+↓
 变量聚合
-  ↓
+↓
 结果输出
+```
+
+---
+
+## Workflow Screenshot
+
+![AI Workflow Screenshot](ai workflow screenshot.png)
